@@ -31,12 +31,11 @@
 	3.) The payment delayed user deatails also automatically recorded
 	
 	Technology Stack Used:
-		     FrameWork -> Spring MVC 
 		     Front-End -> JSP,JSTL,HTML,CSS,JavaScript(JQuery,AJAX).
-		     Back-End  -> Java (Programming Language)
+		     Back-End  -> Java, Servlet, JDBC
 		     DataBase  -> MySql
 		     Automatic-Functionalites -> QuartsScheduler
-		     Project-Management-Tool -> Maven
+		     Project-Management-Tool -> DynamicWebApplication
 			 
 			 
 	mysql> use project;
